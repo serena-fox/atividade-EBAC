@@ -20,7 +20,7 @@ O arquivo `executar.sh` é um script shell que verifica
 se o Python está instalado e já inicia a calculadora automaticamente.
 
 **1. Clone o repositório:**
-git clone https://github.com/seu-usuario/calculadora-python.git
+git clone [https://github.com/serena-fox/atividade-EBAC].
 
 **2. Entre na pasta:**
 cd calculadora-python
